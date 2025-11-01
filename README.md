@@ -22,9 +22,10 @@
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Minhas redes
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/PedroHenriqueCavalcante)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seulink](https://www.linkedin.com/in/pedro-henrique-da-silva-cavalcante-7161a8339/))
-[![Lattes](https://img.shields.io/badge/Lattes-0056A6?style=for-the-badge&logo=academia)]([https://lattes.cnpq.br/seulattes](http://lattes.cnpq.br/4424204268118451))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-da-silva-cavalcante-7161a8339/)
+[![Lattes](https://img.shields.io/badge/Lattes-0056A6?style=for-the-badge&logo=academia)](https://lattes.cnpq.br/4244204268118451)
+
 
 ---
