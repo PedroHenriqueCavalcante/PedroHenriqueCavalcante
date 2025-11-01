@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Henrique!</h1>
+<h1 align="center">👋 Olá, eu sou o Pedro Henrique Cavalcante!</h1>
 
 <p align="center">
 🎓 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
 💡 Apaixonado por tecnologia, automação e aprendizado contínuo <br>
-🌱 Atualmente aprendendo <strong>Arduino, Python e suas aplicações na automação</strong>
+🤖 Atualmente aprendendo <strong>Arduino, Python e suas aplicações na automação</strong>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 
 ---
 
-### 📈 Um pouco sobre mim
+### 👦🏻 Um pouco sobre mim
 - ⚡ Gosto de unir programação com hardware  
-- 📚 Estudo idiomas (inglês (B1) e francês (A2))  
+- 📚 Estudo idiomas (inglês e francês)  
 - 🎯 Meu foco é evoluir em projetos práticos e continuar aprendendo todos os dias
 
 ---
