@@ -2,8 +2,8 @@
 
 <p align="center">
 🎓 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
-💡 Apaixonado por tecnologia, automação e aprendizado contínuo <br>
-🤖 Atualmente aprendendo <strong>Arduino, Python e suas aplicações na automação</strong>
+💡 Apaixonado por tecnologia <br>
+🤖 Atualmente aprendendo <strong>automação</strong>
 </p>
 
 ---
