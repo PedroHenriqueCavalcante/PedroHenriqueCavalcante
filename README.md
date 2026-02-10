@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Henrique Cavalcante!</h1>
+<h1 align="center">👋 Olá, eu sou Pedro Henrique Cavalcante!</h1>
 
 <p align="center">
 🎓 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
