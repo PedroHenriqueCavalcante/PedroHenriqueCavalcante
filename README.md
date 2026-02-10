@@ -2,8 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
-💡 Apaixonado por tecnologia <br>
-🤖 Atualmente aprendendo <strong>automação</strong>
+💡 Apaixonado por tecnologia e inovação <br>
 </p>
 
 ---
@@ -17,7 +16,7 @@
 
 ### 👦🏻 Um pouco sobre mim
 - ⚡ Gosto de unir programação com hardware  
-- 📚 Estudo idiomas (inglês e francês)  
+- 📚 Estudo inglês e francês  
 - 🎯 Meu foco é evoluir em projetos práticos e continuar aprendendo todos os dias
 
 ---
