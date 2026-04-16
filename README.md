@@ -1,8 +1,8 @@
 <h1 align="center">Pedro Henrique da Silva Cavalcante</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
-💡 Entusiasta da tecnologia e inovação <br>
+Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
+Entusiasta da tecnologia e inovação <br>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ---
 
 ### Um pouco sobre mim
-- ⚡ Gosto de unir programação com hardware  
-- 📚 Estudo inglês e francês  
-- 🎯 Meu foco é evoluir e continuar aprendendo todos os dias
+- Gosto de unir programação com hardware  
+- Estudo inglês e francês  
+- Meu foco é evoluir e continuar aprendendo todos os dias
 
 ---
 
