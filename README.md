@@ -3,6 +3,7 @@
 <p align="center">
 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
 Entusiasta da tecnologia e inovação <br>
+Desenvolvedor de Firmware na LiteMe <br>
 </p>
 
 ---
