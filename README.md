@@ -7,8 +7,8 @@ Entusiasta da tecnologia e inovação <br>
 
 ---
 
-### Tecnologias que uso e estudo
-- Arduino / C++
+### O que uso no meu dia a dia
+- C++
 - Python
 - Eletrônica e Controle
 
