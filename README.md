@@ -1,27 +1,27 @@
-<h1 align="center">👋 Olá, eu sou Pedro Henrique Cavalcante!</h1>
+<h1 align="center">Pedro Henrique da Silva Cavalcante</h1>
 
 <p align="center">
 🎓 Estudante de Engenharia Elétrica na Universidade Federal de Campina Grande <br>
-💡 Apaixonado por tecnologia e inovação <br>
+💡 Entusiasta da tecnologia e inovação <br>
 </p>
 
 ---
 
-### 🛠️ Tecnologias que uso e estudo
+### Tecnologias que uso e estudo
 - Arduino / C++
 - Python
 - Eletrônica e Controle
 
 ---
 
-### 👦🏻 Um pouco sobre mim
+### Um pouco sobre mim
 - ⚡ Gosto de unir programação com hardware  
 - 📚 Estudo inglês e francês  
-- 🎯 Meu foco é evoluir em projetos práticos e continuar aprendendo todos os dias
+- 🎯 Meu foco é evoluir e continuar aprendendo todos os dias
 
 ---
 
-### 🌐 Minhas redes
+### Minhas redes
 
 <p align="center">
   <a href="https://github.com/PedroHenriqueCavalcante">
