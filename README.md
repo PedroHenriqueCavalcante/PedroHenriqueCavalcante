@@ -11,6 +11,7 @@ Desenvolvedor de Firmware na LiteMe <br>
 ### O que uso no meu dia a dia
 - C++
 - Python
+- HTML & JavaScript
 - Eletrônica e Controle
 
 ---
